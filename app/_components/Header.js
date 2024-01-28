@@ -11,6 +11,9 @@ function Header() {
           <li>
             <Link href="/posts">포스트 목록</Link>
           </li>
+          <li>
+            <Link href="/translator">번역기</Link>
+          </li>
         </ul>
       </nav>
     </header>
